@@ -7,9 +7,9 @@
 
 🔭 I’m currently working on **Python, AWS, C#, Dotnet, Ruby**
 
-🌱 I’m currently learning **Typescript, DJango**
+🌱 I’m currently learning **Trading, Patience**
 
-💬 Ask me about **gadgets, bikes and cars.**
+💬 Ask me about **gadgets, bikes, and cars.**
 
 📫 How to reach me **vinayvprabhu67@gmail.com**
 </div>
